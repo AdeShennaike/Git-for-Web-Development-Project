@@ -112,7 +112,7 @@ https://codepen.io/masterfuji23/pen/ZEyVYVG?editors=1100
     20 minutes
 
     36. What is the command we would use to push our repo up to github?
-    git push -u origin"repo name"
+    git push -u origin <repo name>
     after the first time its just git push
 
     37. Walk me through Lambda's git flow. 
